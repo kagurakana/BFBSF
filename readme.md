@@ -33,7 +33,7 @@ We provide some results on simulated degraded images and real degraded IR images
 | ----- | ------ | ------ |
 | ![input1](raw/images/degraded/0001.bmp) | ![output1](raw/src/result/BFBSF/0001.bmp) | ![GT1](raw/images/clear/0001.bmp) |
 | ![input2](raw/images/degraded/0003.jpg) | ![output2](raw/src/result/BFBSF/0003.jpg) | ![GT2](raw/images/clear/0003.jpg) |
-| ![input3](raw/images/degraded/0008.jpg) | ![output3](raw/src/result/BFBSF/0008.jpg) | ![GT3](raw/images/clear/0008.jpg) |
+| ![input3](raw/images/degraded/0008.png) | ![output3](raw/src/result/BFBSF/0008.png) | ![GT3](raw/images/clear/0008.png) |
 | ![input4](raw/images/degraded/0009.jpg) | ![output4](raw/src/result/BFBSF/0009.jpg) | ![GT4](raw/images/clear/0009.jpg) |
 
 ## Citation
