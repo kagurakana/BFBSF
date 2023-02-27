@@ -40,7 +40,8 @@ We provide some results on simulated degraded images and real degraded IR images
 If you find our work useful for your research, please cite our paper:
 
 ```bib
-@article{BFBSF, title={Progressive Nonuniformity Correction for Aero-optical Thermal Radiation Images via Bilateral Filtering and Bézier Surface Fitting}, 
+@article{BFBSF, 
+title={Progressive Nonuniformity Correction for Aero-optical Thermal Radiation Images via Bilateral Filtering and Bézier Surface Fitting}, 
 author={},
 journal={}, 
 year={}
