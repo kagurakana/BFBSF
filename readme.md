@@ -2,7 +2,7 @@
 
 This repository contains the code and data for our paper: 
 
-**Progressive Nonuniformity Correction for Aero-optical Thermal Radiation Images via Bilateral Filtering and Bézier Surface Fitting**
+**[Progressive Nonuniformity Correction for Aero-optical Thermal Radiation Images via Bilateral Filtering and Bézier Surface Fitting](https://ieeexplore.ieee.org/document/10056931)**
 
 ## Abstract
 When a high-speed aircraft flies in the atmosphere, the imaging window is subjected to airflow friction, the kinetic energy of the airflow is converted into thermal energy, which makes the surface temperature of the imaging window rise unevenly, the imaging quality is significantly reduced, called aero-optical thermal radiation effects. The continuously increasing nonuniform thermal radiation bias field is not conducive to the precise identification of the target. To remove the bias field in degraded infrared images, this paper proposes a progressive nonuniformity correction method. First, we establish a progressive thermal radiation effects correction model to estimate the thermal radiation bias field based on bilateral filtering and Bézier surface fitting. Then, to avoid overfitting the bias field, the degree of Bézier surface is reduced progressively during the iterative process. Finally, according to the properties of the heat transfer of the aero-optical thermal radiation effects, a gradient orientation prior is imposed for both the thermal radiation bias field and the latent clear image. Experiments on simulated degraded images and real degraded IR images show that our method can reduce the thermal radiation effects residual compared with current aero-optical thermal radiation effects correction methods.
@@ -40,13 +40,15 @@ We provide some results on simulated degraded images and real degraded IR images
 If you find our work useful for your research, please cite our paper:
 
 ```bib
-@article{BFBSF, 
-title={Progressive Nonuniformity Correction for Aero-optical Thermal Radiation Images via Bilateral Filtering and Bézier Surface Fitting}, 
-author={},
-journal={}, 
-year={}
-...
-}
+@ARTICLE{BDBSF,
+  author={Hong, Hanyu and Liu, Jiakang and Shi, Yu and Xiong, Lun and Sang, Nong and Zhang, Tianxu},
+  journal={IEEE Photonics Journal}, 
+  title={Progressive Nonuniformity Correction for Aero-optical Thermal Radiation Images via Bilateral Filtering and Bézier Surface Fitting}, 
+  year={2023},
+  volume={Waiting for assignment},
+  number={Waiting for assignment},
+  pages={1-11},
+  doi={10.1109/JPHOT.2023.3250949}}
 ```
 
 ## Contact
