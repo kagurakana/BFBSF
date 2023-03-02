@@ -40,7 +40,7 @@ We provide some results on simulated degraded images and real degraded IR images
 If you find our work useful for your research, please cite our paper:
 
 ```bib
-@ARTICLE{BDBSF,
+@ARTICLE{BFBSF,
   author={Hong, Hanyu and Liu, Jiakang and Shi, Yu and Xiong, Lun and Sang, Nong and Zhang, Tianxu},
   journal={IEEE Photonics Journal}, 
   title={Progressive Nonuniformity Correction for Aero-optical Thermal Radiation Images via Bilateral Filtering and Bézier Surface Fitting}, 
